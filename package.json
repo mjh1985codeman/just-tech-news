@@ -28,5 +28,8 @@
     "express-session": "^1.17.2",
     "mysql2": "^2.3.0",
     "sequelize": "^6.6.5"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0"
   }
 }
